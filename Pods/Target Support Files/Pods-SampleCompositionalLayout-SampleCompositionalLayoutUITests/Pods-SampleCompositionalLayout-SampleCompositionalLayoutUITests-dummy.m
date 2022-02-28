@@ -1,0 +1,5 @@
+#import <Foundation/Foundation.h>
+@interface PodsDummy_Pods_SampleCompositionalLayout_SampleCompositionalLayoutUITests : NSObject
+@end
+@implementation PodsDummy_Pods_SampleCompositionalLayout_SampleCompositionalLayoutUITests
+@end
